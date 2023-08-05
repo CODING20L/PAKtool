@@ -28,11 +28,10 @@
 
 ## Clone this repository:
 
-### git clone https://github.com/Ramonymous/ThePAK
+### git clone https://github.com/chessclash/PAKtool
 
-## Open ThePAK directory and run setup:
-
-     * cd ThePAK
+## Open PAKtool directory and run setup:
+     * cd PAKtool
      * chmod +x setup
      * bash setup
 
